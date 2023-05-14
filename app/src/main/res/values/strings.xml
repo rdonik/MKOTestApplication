@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MKOTestApplication</string>
+    <string name="service_description">Please provide permission to get instagram username</string>
+    <string name="username_description">Here would be your instagram username</string>
+    <string name="button_start">Start</string>
+    <string name="instagram_app_id">com.instagram.android</string>
+
+</resources>
